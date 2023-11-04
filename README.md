@@ -20,7 +20,7 @@ The following questions are answered using mySQL:
   1) Total Revenue earned by each ProductLine
   2) Total Revenue earned for each Year
   3) Checking Which Months Operations performed for Each Year?
-  4) Checking Which Type of DealsSize operation made the most Revenue?
+  4) Checking Which Type of DealsSize operation made the most Revenue? How much was earned that Month?
   5) What was the best Month for Sales in a Specific Year?
   6) Most Popular Product Line sold during the best Month in a Specific Year?
   7) Who is the Best Customer using RFM Analysis?
